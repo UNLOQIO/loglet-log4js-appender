@@ -1,0 +1,19 @@
+{
+  "name": "log4js-loglet",
+  "author": "Loglet.io",
+  "version": "1.0.6",
+  "dependencies": {
+    "loglet.io": "1.x"
+  },
+  "description": "Loglet.io log4js appender",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UNLOQIO/loglet-log4js-appender"
+  },
+  "homepage": "https://loglet.io",
+  "bugs": {
+    "url": "https://github.com/UNLOQIO/loglet-log4js-appender/issues"
+  }
+}
